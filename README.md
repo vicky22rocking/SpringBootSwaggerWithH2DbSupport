@@ -25,7 +25,3 @@ This single line will do all the magic for you using Spring JPA
 public interface EmployeeService extends JpaRepository<Employee, Integer>{
 }
 ```
-
-To download this code
-
-git clone https://github.com/iamvickyav/Spring-boot-data-H2-embedded.git
